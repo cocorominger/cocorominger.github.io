@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
-body{
-
+body {
   background-color: #CEF6FF;
   position: relative;
   font-size: 20px;
@@ -15,24 +14,24 @@ body{
   font-size: 18px;
 }
 
-section{
+section {
   clear: both;
   margin-top: 10px;
   overflow: auto;
 }
 
-main{
+main {
   position: absolute;
   top: 30px;
   background-color: #ffffff;
   padding: 10px;
 }
 
-.caption{
+.caption {
   clear: left;
 }
 
-nav{
+nav {
   position: fixed;
   left: 0;
   top: 0;
@@ -43,7 +42,7 @@ nav{
   color: black;
 }
 
-nav ul{
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -51,41 +50,41 @@ nav ul{
   text-align: center;
 }
 
-nav li{
+nav li {
   display: inline;
 }
 
-nav li:last-child a{
+nav li:last-child a {
   border-right: 0;
 }
 
-nav a{
+nav a {
   color: black;
   text-align: center;
   padding: 10px;
   text-decoration: none;
   display: inline-block;
-  border-right: 2px solid rgb(224,224,224);
+  border-right: 2px solid rgb(224, 224, 224);
 }
 
-nav em{
+nav em {
   color: black;
   text-align: center;
   padding: 10px;
   text-decoration: none;
   display: inline-block;
-  border-right: 2px solid rgb(224,224,224);
+  border-right: 2px solid rgb(224, 224, 224);
 }
 
-nav li:last-child em{
+nav li:last-child em {
   border-right: 0;
 }
 
-nav a:hover{
+nav a:hover {
   background-color: #666666;
 }
 
-h1{
+h1 {
   text-align: center;
   font-size: 50px;
   font-family: 'Montserrat', sans-serif;
@@ -95,7 +94,7 @@ h1{
   margin-bottom: 5px;
 }
 
-h2{
+h2 {
   text-align: center;
   font-size: 40px;
   font-family: 'Montserrat', sans-serif;
@@ -104,7 +103,7 @@ h2{
   margin-bottom: 30px;
 }
 
-h3{
+h3 {
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 0;
@@ -112,7 +111,7 @@ h3{
   margin-bottom: 30px;
 }
 
-img{
+img {
   height: auto;
   width: auto;
   max-width: 400px;
@@ -125,13 +124,13 @@ img{
   margin-left: 30px;
 }
 
-aside{
+aside {
   float: left;
   margin-bottom: 20px;
   margin-top: 0;
 }
 
-aside .caption{
+aside .caption {
   margin-left: 10px;
   margin-right: 10px;
   font-size: 12px;
@@ -139,18 +138,17 @@ aside .caption{
   padding-top: 5px;
 }
 
-
-#intro{
+#intro {
   margin: 20px 10px;
 }
 
-.description{
+.description {
   margin-top: 0;
   margin-left: 10px;
   margin-right: 10px;
 }
 
-p{
+p {
   margin-top: 0;
   margin-bottom: 0;
 }
