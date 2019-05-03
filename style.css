@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:700');
-@import url('https://fonts.googleapis.com/css?family=Raleway:500');
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Didact+Gothic');
 
 body {
   background-color: #CEF6FF;
@@ -10,7 +7,7 @@ body {
   max-width: 850px;
   min-width: 400px;
   margin: 0 auto;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Didact Gothic', sans-serif;
   font-size: 18px;
 }
 
@@ -87,17 +84,17 @@ nav a:hover {
 h1 {
   text-align: center;
   font-size: 50px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
   color: #8A0D60;
   background-color: #CCD2D2;
   margin-top: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 h2 {
   text-align: center;
-  font-size: 40px;
-  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  font-family: 'Cormorant Garamond', serif;
   color: #CA7CB0;
   margin-top: 0;
   margin-bottom: 30px;
@@ -105,7 +102,7 @@ h2 {
 
 h3 {
   font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
   margin-bottom: 0;
   margin-left: 10px;
   margin-bottom: 30px;
